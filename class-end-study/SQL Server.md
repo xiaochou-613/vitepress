@@ -576,11 +576,11 @@ group by Department.DepartmentId,DepartmentName,[Rank].RankId,RankName
 
 自己连接自己
 
-![image-20231022112523616](C:\Users\江开\Documents\Typora文档\vue的学习\SQL Server.assets\image-20231022112523616.png)
+ 
 
-![image-20231022112527041](C:\Users\江开\Documents\Typora文档\vue的学习\SQL Server.assets\image-20231022112527041.png)
+ 
 
-![image-20231022112606731](C:\Users\江开\Documents\Typora文档\vue的学习\SQL Server.assets\image-20231022112606731.png)
+ 
 
 # 九、数据库设计
 
@@ -599,7 +599,7 @@ group by Department.DepartmentId,DepartmentName,[Rank].RankId,RankName
 
 要求数据 保证实体的唯一性，姓名依赖学号，课程依赖课程编号不符合第二范式
 
-![image-20231023105540855](C:\Users\江开\Documents\Typora文档\vue的学习\SQL Server.assets\image-20231023105540855.png)
+ 
 
 拆分成学生表和课程表，并无关联，再用考试表连接起来
 
@@ -778,7 +778,7 @@ where AccountId = @AccountId
 
 # 十二、运算符
 
-![image-20231027132446139](C:\Users\江开\Documents\Typora文档\vue的学习\SQL Server.assets\image-20231027132446139.png)
+ 
 
 ```sql
 use Bank

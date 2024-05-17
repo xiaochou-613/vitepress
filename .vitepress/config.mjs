@@ -13,7 +13,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Markdown 笔记', link: '/vue-study/CSS' },
-      { text: 'vitepress 搭建', link: '/vitepress-setupy' }
+      { text: 'vitepress 搭建', link: '/vitepress-setup' }
     ],
 
     search: {

@@ -49,9 +49,9 @@ watch(
 
 ## 4、Pinia
 
-![image-20231122172845639](  \vue\Vue3-Project.assets\image-20231122172845639.png)
+ 
 
-![image-20231122172904666](  \vue\Vue3-Project.assets\image-20231122172904666.png)
+ 
 
 # 二、项目初期配置
 
@@ -277,7 +277,7 @@ const student = ref({}) //否则在temp使用student.name会报错
 
 2、对应上面的问题
 
-![image-20240119154342412](  \Vue\Vue3-rabbit.assets\image-20240119154342412.png)
+ 
 
 当对象为空的时候，去读取里面的值就会报错，可以采用两种方法解决。
 
